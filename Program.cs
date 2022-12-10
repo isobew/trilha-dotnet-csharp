@@ -8,6 +8,7 @@ p.Apresentar();
 // tipos de dados
 string apresentacao = "Olá, seja bem vindo";
 int quantidade = 1;
+quantidade = 10;
 double altura = 1.80;
 decimal preco = 1.80M;
 bool condicao = true;
